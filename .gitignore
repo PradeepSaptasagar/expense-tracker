@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+db.sqlite3
+*.env
+
+# Django
+expense_tracker/expense_tracker/settings.py
+
+# React
+expense-frontend/node_modules/
+expense-frontend/build/
+
+# OS
+.DS_Store
+Thumbs.db 
